@@ -43,5 +43,5 @@ UPI drives highest repeat customers
 Pune & Hyderabad lead revenue contribution
 Android platform shows highest session volume
 
-<img width="1355" height="725" alt="image" src="https://github.com/user-attachments/assets/b99d69cd-6f47-4f0e-914b-f96722014229" />
 <img width="1319" height="747" alt="image" src="https://github.com/user-attachments/assets/7a751f65-a402-40a1-a524-20c31ad54a76" />
+<img width="1355" height="725" alt="image" src="https://github.com/user-attachments/assets/b99d69cd-6f47-4f0e-914b-f96722014229" />
